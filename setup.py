@@ -11,7 +11,7 @@ setuptools.setup(
     description="This package will create documentations for our python package",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/TheGamer548/HelperCreator",
     project_urls={
         "Bug Tracker": "https://github.com/pypa/sampleproject/issues",
     },

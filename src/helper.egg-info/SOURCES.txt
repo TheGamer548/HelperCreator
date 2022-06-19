@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/HelperCreator/Helper.py
+src/HelperCreator/__init__.py
+src/helper.egg-info/PKG-INFO
+src/helper.egg-info/SOURCES.txt
+src/helper.egg-info/dependency_links.txt
+src/helper.egg-info/top_level.txt

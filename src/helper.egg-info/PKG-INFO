@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: helper
+Version: 0.0.1
+Summary: This package will create documentations for our python package
+Home-page: https://github.com/TheGamer548/HelperCreator
+Author: Coder100
+Author-email: jacobhason86@gmail.com@example.com
+Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Commands
+
+# 1. create_html_documentation_file("path_directory, file_name")
+# 2. create_documentation_file("path_directory, file_name")
+# 3. end
+## Help for commands :
+## this command is utility for HTML devlopper. This command will create a html file in your path directory and you will start coding code
+## The last command but not a html documentation
+
+# Features for this version
+
+## We added all functions on # Commands
+
+# Thank you for using HelperCreator
