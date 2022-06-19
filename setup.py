@@ -7,7 +7,7 @@ setuptools.setup(
     name="helper",
     version="0.0.1",
     author="Coder100",
-    author_email="jacobhason86@gmail.com@example.com",
+    author_email="jacobhason86@gmail.com",
     description="This package will create documentations for our python package",
     long_description=long_description,
     long_description_content_type="text/markdown",
